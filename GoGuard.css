@@ -1,0 +1,101 @@
+body{
+background-color: rgb(60, 133, 160);
+margin: auto;
+text-align: center;
+padding-top: 60px;
+
+}
+
+section{
+    height: 380px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    border-radius: 20px;
+    padding-top: 20px;
+
+}
+
+input{
+    position:relative;
+    bottom: 40px;
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 2px;
+    margin: 5px;
+    margin-left: 20px;
+    border-color: rgb(26, 228, 26);
+    font: bold 18px arial;
+    color: rgb(33, 129, 33);
+    border-style: solid;
+    
+
+}
+div#total{
+
+    position:relative;
+    bottom: 40px;
+    width: 150px;
+    height: 30px;
+    border-radius: 8px;
+    border-width: 2px;
+    margin: 5px;
+    margin-left: 20px;
+    border-color: rgb(26, 228, 26);
+    font: bold 18px arial;
+    color: rgb(33, 129, 33);
+    border-style: solid;
+
+}
+
+input#calcular{
+    width: 160px;
+    height: 35px;
+    border-radius: 10px;
+    border-width: 0px;
+    margin: 10x;
+    margin-top: 15px;
+    margin-left: 19px;
+    font: bold 15px arial;
+    color: rgb(73, 73, 73);
+    border-style: solid;
+    background-color: rgb(223, 223, 223);
+
+}
+div#fundo{
+
+    text-align: left;
+}
+
+div#go{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(8, 58, 221);
+    border-radius: 25px;
+    margin-left: 23px;
+    color: white;
+    font: bold 38px calibri;
+    text-align: center;
+    line-height: 49px;
+}
+
+div#guard{
+
+    font: bold 38px calibri;
+    position:relative;
+    bottom: 48px;
+    left: 20px;
+    
+
+}
+
+label{
+
+    position: relative;
+    bottom: 35px;
+    left:20px;
+    font: bold 12px calibri;
+    text-align: center;
+    color: rgb(117, 117, 117);
+}
